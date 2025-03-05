@@ -1,6 +1,6 @@
-import { SafeAreaView, View, Text, StyleSheet, TextInput, Button, Pressable } from 'react-native';
-import { useState } from 'react';
-import { router } from 'expo-router';
+import { SafeAreaView, View, Text, StyleSheet, TextInput, Button, Pressable } from "react-native";
+import { useState } from "react";
+import { router } from "expo-router";
 
 export default function MyScreen() {
   return (
